@@ -1,0 +1,15 @@
+# Configuración privada
+.env
+.env.*
+!.env.example
+
+# IntelliJ
+.idea/
+*.iml
+
+# Compilación
+target/
+out/
+
+# Archivos temporales
+*.log
