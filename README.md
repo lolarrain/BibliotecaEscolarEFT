@@ -33,6 +33,7 @@ DB_USER=root
 DB_PASSWORD=TU_CONTRASEÑA
 ```
 
+## Estructura del proyecto
 
 ```text
 BibliotecaEscolarEFT/
